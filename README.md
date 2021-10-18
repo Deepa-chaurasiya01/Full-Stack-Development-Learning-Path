@@ -20,8 +20,6 @@ This repo will contain the two main folders, Frontend & Backend, and every folde
   6.[Javascript-Intermidiate](Front-End/Javascript-Intermidiate/)
 
 
-
-
 - [Backend](https://github.com/kaiwalyakoparkar/Full-Stack-Development-Learning-Path/tree/main/Back-End):-
 
   1.[Jonas-Node+MongoDB-Course/Nodejs+ExpressJS](Back-End/Jonas Node+MongoDB Course/Nodejs + ExpressJS/Express-API)
